@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url("../image/nen\ 1.png");
+  background-image: url("../images/nen\ 1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -34,7 +34,7 @@ body {
 
 /* HERO */
 .hero {
-  background: url('../image/BIA.png') center/cover no-repeat;
+  background: url('../image/BIAs.png') center/cover no-repeat;
   height: 80vh;
   display: flex;
   align-items: center;
@@ -310,4 +310,5 @@ body {
 .footer span {
   color: #ff9800; /* hoặc đổi sang #d4a24c nếu bạn muốn tone vàng đồng */
   font-weight: bold;
+
 }
