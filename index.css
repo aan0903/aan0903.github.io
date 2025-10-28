@@ -95,7 +95,7 @@
     .preview {
       width: 400px;
       height: 220px;
-      background: url('../image/BIA.png') no-repeat center/cover;
+      background: url('../images/BIA.png') no-repeat center/cover;
       border: 2px solid #000;
       border-radius: 4px; 
     }
@@ -149,3 +149,4 @@
   }
 
 }
+
