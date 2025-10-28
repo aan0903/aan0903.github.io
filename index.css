@@ -14,7 +14,7 @@
 
     body {
       font-family: 'Open Sans', sans-serif;
-      background: url('../image/nen.png') no-repeat center/cover;
+      background: url('../images/nen.png') no-repeat center/cover;
       min-height: 100vh;
       color: #111;
       display: flex;
@@ -147,4 +147,5 @@
   body {
     background-attachment: scroll;
   }
+
 }
